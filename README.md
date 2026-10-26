@@ -1,6 +1,5 @@
 # Simple Local IoC Checker
 
-**Prepared for: PRACHITHA S**
 
 A beginner-friendly cybersecurity project that identifies the format of an IP address, domain, or file hash and checks it against a tiny local sample dataset. It demonstrates basic indicator-of-compromise (IoC) handling without contacting external services.
 
